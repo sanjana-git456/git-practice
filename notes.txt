@@ -1,3 +1,4 @@
 Learning Git
 Second line added
 Editing via VS Code now
+Testing clean diff now
