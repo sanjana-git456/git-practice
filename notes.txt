@@ -1,4 +1,4 @@
-Learning Git
+Learning Git - main version
 Second line added
 Editing via VS Code now
 Testing clean diff now
