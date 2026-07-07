@@ -1,5 +1,4 @@
-Learning Git
-Second line added
+Learning Git - branch versionSecond line added
 Editing via VS Code now
 Testing clean diff now
 Edited directly on Github
